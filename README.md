@@ -15,7 +15,4 @@
 - **<a href="https://www.receivesms.org">www.receivesms.org</a>**
 - **<a href="https://sms-receive.net">sms-receive.net</a>**
 
-## Supporters
-[![Stargazers repo roster for @mishakorzik/VirtualPhoneNumber](https://reporoster.com/stars/mishakorzik/VirtualPhoneNumber)](https://github.com/mishakorzik/VirtualPhoneNumber/stargazers)
-[![Forkers repo roster for @mishakorzik/VirtualPhoneNumber](https://reporoster.com/forks/mishakorzik/VirtualPhoneNumber)](https://github.com/mishakorzik/VirtualPhoneNumber/members)
 
